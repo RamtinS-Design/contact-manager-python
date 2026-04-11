@@ -15,7 +15,7 @@ This program allows users to store, view, search, and delete contacts using a di
 - 2 For Viewing
 - 3 For Searching
 - 4 For Deleting
-- 5 For Exitingd
+- 5 For Exiting
 
 ## What I Learned
 - How to use Dictionaries in Python
